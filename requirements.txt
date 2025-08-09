@@ -1,0 +1,6 @@
+# PyRIT EU AI Act Compliance Testing - Dependencies
+# Install with: pip install -r requirements.txt
+
+pyrit>=0.9.0
+openai>=1.0.0
+pyyaml>=6.0
